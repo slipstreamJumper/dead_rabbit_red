@@ -1,0 +1,6 @@
+<resources>
+    <bitmaps>
+    	 <bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" />
+    	 <bitmap id="id_drs_red" filename="drawables/drsredsmall.png"/>
+    </bitmaps>
+</resources>
